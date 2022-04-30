@@ -3,9 +3,10 @@
 
 int main()
 {
-	int i = 0, tmp;
+	int i, tmp;
 	char pwd[] = "Look";
 
+	i = 0;
 	while (i <= 3)
 	{
 		tmp = i << 3;
